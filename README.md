@@ -1,2 +1,2 @@
 # index.html
-I'm creating my website
+I'm creating a website
