@@ -1,5 +1,5 @@
 # index.html
-To get you started with a professional website, here’s a simple JavaScript structure you can deploy to GitHub Pages to showcase your skills, work, and experiences. This setup will create a responsive, single-page portfolio. It includes HTML, CSS, and JavaScript that you can easily edit and expand.
+This is a professional website, here’s a simple JavaScript structure you can deploy to GitHub Pages to showcase your skills, work, and experiences. This setup will create a responsive, single-page portfolio. It includes HTML, CSS, and JavaScript that you can easily edit and expand.
 
 Here’s the step-by-step guide and code:
 
