@@ -38,7 +38,7 @@ Inside the folder, create three files: index.html, style.css, and script.js.
     <p>Connect with me:</p>
     <ul>
       <li><a href=https://www.linkedin.com/in/patience-opara-active-public-trust-security-clearance-268930248/>LinkedIn</a></li>
-      <li><a href=Github>https://github.com/Popara5>GitHub</a></li>
+      <li><a href=Github>Github>https://github.com/Popara5</a></li>
       <li><a href=Email>poparatech5@gmail.com</a></li>
     </ul>
   </footer>
