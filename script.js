@@ -5,7 +5,20 @@ const projects = [
 ];
 
 const experience = [
-  { title: "Job Title at Company", description: "Details of your responsibilities" },
+  { title: "Focus Management FMI", description: "Cloud engineer
+01/2024 - Present Alexandria, United States
+Architect scalable Azure environments, optimizing resources for client needs
+Develop high-availability solutions using Azure tools ensuring service continuity
+Deploy containerized applications with Docker and Azure, enhancing scalability
+Automate resource deployments with ARM templates, streamlining cloud
+operations
+Enhance security with AD and Key Vault, mitigating cybersecurity threats
+Design robust disaster recovery solutions using Availability Sets and Traffic
+Manager, ensuring business continuity for critical systems
+Lead containerization efforts with Docker and ACI for scalable application
+deployment
+Streamline cloud operations by developing ARM templates, fostering efficient
+resource management and cross-team collaboration" },
   { title: "Another Job Title", description: "Details of responsibilities" },
 ];
 
